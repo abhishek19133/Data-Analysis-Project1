@@ -5,6 +5,12 @@ This project involves analyzing sales data to uncover trends, performance by reg
 
 **Project Details**
 
+**Tools Used**
+
+1.Excel
+
+2.Microsoft Power BI
+
 **Data Cleaning & Preparation:**
 
 1.Cleaned the raw sales dataset by removing duplicates , removing unnecessary coloumn, handling missing values by mean , and transforming data into a structured format, fix data types,trim whitespaces.
